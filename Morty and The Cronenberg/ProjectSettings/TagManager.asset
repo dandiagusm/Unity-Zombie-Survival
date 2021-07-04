@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG
+  - GM
+  - Objects
+  - Zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Tilemap_Base
+  - Ground
+  - Objects
+  - Zombies
+  - Characters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 611717445
+    locked: 0
+  - name: Tilemap_Base
+    uniqueID: 2627663011
+    locked: 0
+  - name: Ground
+    uniqueID: 791921091
+    locked: 0
+  - name: Objects
+    uniqueID: 109311359
+    locked: 0
+  - name: Characters
+    uniqueID: 1659798493
+    locked: 0
